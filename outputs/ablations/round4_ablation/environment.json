@@ -1,0 +1,44 @@
+{
+  "git_commit": "b77ba27fcb1934795621cc48eabd1c4fd1f3cabc",
+  "git_uncommitted_changes": false,
+  "torch": "2.11.0+cu128",
+  "torch_cuda_build": "12.8",
+  "python": "3.14.6",
+  "gpu": "NVIDIA GeForce RTX 5070",
+  "gpu_capability": "sm_120",
+  "warnings": [],
+  "config": "configs\\experiment_3class.json",
+  "smoke_test": false,
+  "training": {
+    "optimizer": "AdamW",
+    "learning_rate": 0.001,
+    "weight_decay": 0.0001,
+    "batch_size": 64,
+    "epochs": 25,
+    "scheduler": "LinearWarmup + CosineDecay (stepped per batch)",
+    "scheduler_params": {
+      "warmup_epochs": 3,
+      "eta_min": 1e-05
+    },
+    "max_grad_norm": 1.0,
+    "bn_recalibration": true,
+    "loss_function": "CrossEntropyLoss",
+    "label_smoothing": 0.05,
+    "augmentation": "train_only (via MemoryFaultDataset augment=True)"
+  },
+  "variants": [
+    "M0",
+    "A1",
+    "A2",
+    "A3",
+    "A4",
+    "A5"
+  ],
+  "seeds": [
+    42,
+    43,
+    44,
+    45,
+    46
+  ]
+}

@@ -1,0 +1,323 @@
+filename,original_folder,true_label,true_name,pred_label,pred_name,correct,prob_0_Healthy_Baseline,prob_1_Continuous_Friction_and_Wear,prob_2_Impulsive_Shocks_and_Structural,pred_label_spectrogram_path
+Escorregamento_10.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013814359,0.9671862,0.018999409,1
+Escorregamento_106.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009462776,0.9791853,0.011351882,1
+Escorregamento_113.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014799062,0.96018773,0.025013229,1
+Escorregamento_118.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011809402,0.97077495,0.017415654,1
+Escorregamento_122.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012051249,0.97161317,0.016335594,1
+Escorregamento_128.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011392378,0.9752343,0.0133732855,1
+Escorregamento_131.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010495128,0.97838277,0.011122133,1
+Escorregamento_132.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009559155,0.9799952,0.0104455985,1
+Escorregamento_14.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009836865,0.97365326,0.016509822,1
+Escorregamento_142.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011985125,0.97731346,0.010701339,1
+Escorregamento_147.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010670076,0.97477627,0.014553602,1
+Escorregamento_26.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013209021,0.97110623,0.01568468,1
+Escorregamento_30.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013367538,0.9672268,0.019405657,1
+Escorregamento_38.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01682722,0.95780003,0.025372775,1
+Escorregamento_39.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009189745,0.9798045,0.011005727,1
+Escorregamento_45.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011323809,0.9699388,0.018737331,1
+Escorregamento_48.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011809995,0.9677142,0.020475814,1
+Escorregamento_55.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012083999,0.9666249,0.021291073,1
+Escorregamento_59.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011447617,0.9763557,0.012196656,1
+Escorregamento_67.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013762161,0.97046655,0.015771331,1
+Escorregamento_7.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014819189,0.95417225,0.031008573,1
+Escorregamento_73.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013998942,0.96708196,0.01891916,1
+Escorregamento_74.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010620845,0.9750837,0.014295493,1
+Escorregamento_75.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.008644547,0.98120064,0.010154836,1
+Escorregamento_8.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010057389,0.97484213,0.015100492,1
+Escorregamento_81.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014753377,0.9631886,0.022058053,1
+Escorregamento_82.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011985547,0.974327,0.013687364,1
+Escorregamento_84.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01362017,0.96917367,0.017206222,1
+Escorregamento_92.wav,Escorregamento,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011269533,0.9745814,0.014149046,1
+Escorregamento_P1_105.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012226954,0.96961075,0.018162234,1
+Escorregamento_P1_11.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012117854,0.96826965,0.019612445,1
+Escorregamento_P1_112.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015904326,0.9650253,0.019070368,1
+Escorregamento_P1_115.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016661838,0.6681319,0.31520623,1
+Escorregamento_P1_12.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014806841,0.96928275,0.015910432,1
+Escorregamento_P1_124.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014418588,0.9657259,0.019855572,1
+Escorregamento_P1_135.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.018050844,0.9066662,0.07528293,1
+Escorregamento_P1_140.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01185247,0.97152543,0.0166221,1
+Escorregamento_P1_141.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012425561,0.97368026,0.0138941165,1
+Escorregamento_P1_144.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012857722,0.97199214,0.015150156,1
+Escorregamento_P1_147.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01696064,0.9304298,0.052609608,1
+Escorregamento_P1_16.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009716658,0.98106784,0.009215435,1
+Escorregamento_P1_166.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.017980482,0.96159154,0.020428017,1
+Escorregamento_P1_174.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011729465,0.9729134,0.015357164,1
+Escorregamento_P1_25.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.0112228105,0.97424227,0.014534918,1
+Escorregamento_P1_28.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016681463,0.95358217,0.0297364,1
+Escorregamento_P1_30.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.03015607,0.6701419,0.29970208,1
+Escorregamento_P1_31.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011485949,0.97001475,0.018499356,1
+Escorregamento_P1_40.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013414888,0.97064596,0.015939107,1
+Escorregamento_P1_5.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009429925,0.98040384,0.010166271,1
+Escorregamento_P1_62.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010498274,0.97964627,0.009855451,1
+Escorregamento_P1_80.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.017875591,0.9426812,0.03944323,1
+Escorregamento_P1_88.wav,Escorregamento_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.02036361,0.9564319,0.023204433,1
+Escorregamento_P1P4_104.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012903988,0.9682013,0.018894795,1
+Escorregamento_P1P4_111.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01511382,0.96202326,0.022862937,1
+Escorregamento_P1P4_113.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011229396,0.9712044,0.017566191,1
+Escorregamento_P1P4_122.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.008766685,0.98209,0.009143349,1
+Escorregamento_P1P4_129.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012183554,0.973381,0.014435497,1
+Escorregamento_P1P4_134.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013480703,0.97563744,0.010881837,1
+Escorregamento_P1P4_137.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014705706,0.97099656,0.014297751,1
+Escorregamento_P1P4_139.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010758288,0.9734726,0.015769158,1
+Escorregamento_P1P4_14.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013148446,0.97076845,0.016083186,1
+Escorregamento_P1P4_154.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011457678,0.9720487,0.016493684,1
+Escorregamento_P1P4_156.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012383725,0.9747389,0.012877406,1
+Escorregamento_P1P4_170.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010819404,0.9775972,0.011583419,1
+Escorregamento_P1P4_174.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.017641244,0.9647444,0.017614396,1
+Escorregamento_P1P4_22.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012710617,0.97370684,0.013582522,1
+Escorregamento_P1P4_29.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016881516,0.96313465,0.019983808,1
+Escorregamento_P1P4_32.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01199175,0.9765979,0.011410342,1
+Escorregamento_P1P4_38.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014841057,0.9656542,0.019504778,1
+Escorregamento_P1P4_40.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.0148483245,0.96888125,0.016270366,1
+Escorregamento_P1P4_44.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013244346,0.97444963,0.012306027,1
+Escorregamento_P1P4_48.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015819848,0.9702617,0.013918451,1
+Escorregamento_P1P4_55.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01518032,0.9678114,0.017008327,1
+Escorregamento_P1P4_69.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014428753,0.9722214,0.013349858,1
+Escorregamento_P1P4_74.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014310213,0.96862936,0.017060438,1
+Escorregamento_P1P4_76.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012146206,0.97480303,0.013050776,1
+Escorregamento_P1P4_8.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013751201,0.9702331,0.016015703,1
+Escorregamento_P1P4_81.wav,Escorregamento_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015667599,0.96659076,0.017741721,1
+Normal_10.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99750865,0.001647865,0.0008434514,0
+Normal_111.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.98787063,0.006261402,0.005868007,0
+Normal_117.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99870336,0.0009165889,0.00038003092,0
+Normal_118.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99856323,0.00090161833,0.0005352077,0
+Normal_132.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9978806,0.0016364144,0.00048313357,0
+Normal_142.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9988336,0.00082857476,0.00033782754,0
+Normal_146.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9890022,0.004221743,0.006776051,0
+Normal_150.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9982078,0.0012174438,0.00057473406,0
+Normal_163.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99484396,0.0030482209,0.0021078046,0
+Normal_166.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9854226,0.0054458147,0.009131477,0
+Normal_178.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99735546,0.0020152985,0.00062930887,0
+Normal_179.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9885634,0.0062032803,0.0052333493,0
+Normal_20.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99748933,0.0015143483,0.0009963854,0
+Normal_27.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99576914,0.0017804985,0.0024503975,0
+Normal_3.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9977029,0.0012982853,0.000998838,0
+Normal_30.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99832577,0.0011076677,0.00056663196,0
+Normal_33.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99797696,0.0012095269,0.00081350614,0
+Normal_42.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99801207,0.0013157984,0.000672026,0
+Normal_47.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9980773,0.0012808741,0.0006418761,0
+Normal_54.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9960104,0.0022605674,0.0017289869,0
+Normal_55.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99825424,0.0011989891,0.00054685026,0
+Normal_72.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9929295,0.004185569,0.0028849249,0
+Normal_74.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99682415,0.0019808952,0.0011950082,0
+Normal_8.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9961553,0.0025469672,0.0012976853,0
+Normal_90.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.99806446,0.0013936247,0.00054200593,0
+Normal_94.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9958794,0.002191971,0.0019285225,0
+Normal_99.wav,Normal,0,Healthy_Baseline,0,Healthy_Baseline,True,0.9985103,0.0010206564,0.00046895738,0
+Perda_concentrada (101).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02039606,0.015238833,0.9643651,2
+Perda_concentrada (104).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01724854,0.14536373,0.83738774,2
+Perda_concentrada (108).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01660693,0.04023439,0.9431587,2
+Perda_concentrada (113).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016020631,0.034812864,0.9491666,2
+Perda_concentrada (122).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014580386,0.020381289,0.9650383,2
+Perda_concentrada (124).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.012060438,0.047152963,0.94078654,2
+Perda_concentrada (129).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.012062832,0.020125838,0.9678113,2
+Perda_concentrada (135).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019506874,0.020137353,0.9603557,2
+Perda_concentrada (136).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015602489,0.012640198,0.97175735,2
+Perda_concentrada (144).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.013735854,0.025738865,0.9605253,2
+Perda_concentrada (146).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020757396,0.018381538,0.96086115,2
+Perda_concentrada (147).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01267002,0.01330608,0.97402394,2
+Perda_concentrada (151).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023766037,0.022092713,0.9541413,2
+Perda_concentrada (166).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01917499,0.018426085,0.96239895,2
+Perda_concentrada (169).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020148462,0.015319549,0.96453196,2
+Perda_concentrada (172).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.025043253,0.020144425,0.95481235,2
+Perda_concentrada (175).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.032738525,0.033106633,0.93415487,2
+Perda_concentrada (178).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.026999753,0.03194316,0.941057,2
+Perda_concentrada (23).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015329802,0.03543775,0.9492325,2
+Perda_concentrada (35).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01667686,0.019003898,0.9643192,2
+Perda_concentrada (40).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.033261735,0.037233368,0.92950493,2
+Perda_concentrada (44).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,1,Continuous_Friction_and_Wear,False,0.024580162,0.8417426,0.13367721,1
+Perda_concentrada (45).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.025715634,0.022334227,0.9519501,2
+Perda_concentrada (52).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02252425,0.03560426,0.9418715,2
+Perda_concentrada (54).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.027488213,0.020595424,0.9519164,2
+Perda_concentrada (69).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016287608,0.013412043,0.97030044,2
+Perda_concentrada (7).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021426262,0.017173126,0.9614006,2
+Perda_concentrada (71).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014884409,0.017099088,0.96801645,2
+Perda_concentrada (73).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.017357662,0.022740142,0.95990217,2
+Perda_concentrada (75).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.027413834,0.16661659,0.80596954,2
+Perda_concentrada (8).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014148745,0.026576439,0.9592748,2
+Perda_concentrada (86).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019953288,0.014066184,0.9659805,2
+Perda_concentrada (89).wav,Perda_concentrada,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02576281,0.01751044,0.9567268,2
+Perda_concentrada_P1 (100).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016028993,0.011240872,0.97273016,2
+Perda_concentrada_P1 (118).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021624088,0.019082285,0.9592937,2
+Perda_concentrada_P1 (125).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.027307672,0.023871422,0.9488209,2
+Perda_concentrada_P1 (140).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,1,Continuous_Friction_and_Wear,False,0.025686326,0.51706284,0.45725083,1
+Perda_concentrada_P1 (143).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.09962875,0.18526606,0.7151052,2
+Perda_concentrada_P1 (149).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.031229677,0.021296162,0.9474741,2
+Perda_concentrada_P1 (150).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.024147954,0.018419707,0.95743227,2
+Perda_concentrada_P1 (152).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019035272,0.01931996,0.96164477,2
+Perda_concentrada_P1 (168).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01838656,0.020882946,0.96073055,2
+Perda_concentrada_P1 (172).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019439742,0.032622147,0.947938,2
+Perda_concentrada_P1 (175).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021509571,0.054399393,0.924091,2
+Perda_concentrada_P1 (179).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014255598,0.023949184,0.96179515,2
+Perda_concentrada_P1 (26).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.010017454,0.022456802,0.9675258,2
+Perda_concentrada_P1 (28).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016291684,0.019958194,0.96375006,2
+Perda_concentrada_P1 (29).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02269718,0.018269593,0.95903325,2
+Perda_concentrada_P1 (32).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014425425,0.017734349,0.9678402,2
+Perda_concentrada_P1 (34).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.013745508,0.017256143,0.9689984,2
+Perda_concentrada_P1 (35).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020609643,0.018270899,0.9611194,2
+Perda_concentrada_P1 (39).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015743703,0.00994187,0.97431445,2
+Perda_concentrada_P1 (42).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016465785,0.011899921,0.9716343,2
+Perda_concentrada_P1 (71).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020226184,0.022035247,0.9577386,2
+Perda_concentrada_P1 (73).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,1,Continuous_Friction_and_Wear,False,0.020924063,0.78965163,0.18942437,1
+Perda_concentrada_P1 (84).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014983264,0.01371226,0.9713045,2
+Perda_concentrada_P1 (97).wav,Perda_concentrada_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02443714,0.0194862,0.9560767,2
+Perda_concentrada_P1P4 (1).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021096615,0.014504435,0.9643989,2
+Perda_concentrada_P1P4 (102).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.018261356,0.01852394,0.9632147,2
+Perda_concentrada_P1P4 (103).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01753223,0.042959858,0.93950796,2
+Perda_concentrada_P1P4 (11).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01570489,0.03696566,0.94732946,2
+Perda_concentrada_P1P4 (116).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019127794,0.033138726,0.9477334,2
+Perda_concentrada_P1P4 (119).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.017033905,0.0414712,0.94149494,2
+Perda_concentrada_P1P4 (123).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.014947717,0.01618941,0.96886295,2
+Perda_concentrada_P1P4 (132).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020137256,0.01726421,0.9625985,2
+Perda_concentrada_P1P4 (137).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019700171,0.018516552,0.96178323,2
+Perda_concentrada_P1P4 (152).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016437626,0.011044319,0.972518,2
+Perda_concentrada_P1P4 (174).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021732304,0.016397318,0.9618705,2
+Perda_concentrada_P1P4 (175).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.025408156,0.019126615,0.9554652,2
+Perda_concentrada_P1P4 (21).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023608672,0.0241866,0.95220464,2
+Perda_concentrada_P1P4 (24).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015059149,0.012744124,0.9721967,2
+Perda_concentrada_P1P4 (37).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.01915001,0.011740997,0.96910906,2
+Perda_concentrada_P1P4 (39).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022149859,0.020566704,0.9572834,2
+Perda_concentrada_P1P4 (43).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.018990546,0.015859263,0.96515024,2
+Perda_concentrada_P1P4 (57).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.028060485,0.023575148,0.9483644,2
+Perda_concentrada_P1P4 (6).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015370654,0.02209993,0.96252936,2
+Perda_concentrada_P1P4 (65).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022752196,0.01734594,0.9599018,2
+Perda_concentrada_P1P4 (70).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.018279718,0.016589653,0.96513057,2
+Perda_concentrada_P1P4 (76).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021783495,0.018084891,0.9601316,2
+Perda_concentrada_P1P4 (78).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022003194,0.016492546,0.9615042,2
+Perda_concentrada_P1P4 (84).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.018636,0.012471063,0.96889293,2
+Perda_concentrada_P1P4 (86).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.017452471,0.011975934,0.97057164,2
+Perda_concentrada_P1P4 (89).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02325981,0.01929901,0.9574412,2
+Perda_concentrada_P1P4 (94).wav,Perda_concentrada_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016030721,0.014373614,0.9695957,2
+Perda_material (107).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.019106407,0.9614358,0.019457836,1
+Perda_material (110).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.02034645,0.95524913,0.024404436,1
+Perda_material (121).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.017811973,0.96057826,0.021609714,1
+Perda_material (122).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016723434,0.966208,0.01706861,1
+Perda_material (13).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01760202,0.96289593,0.019502068,1
+Perda_material (137).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012457819,0.97697073,0.010571372,1
+Perda_material (143).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011855333,0.9731882,0.014956404,1
+Perda_material (163).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.022725236,0.95811135,0.019163342,1
+Perda_material (177).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016383179,0.9641463,0.01947051,1
+Perda_material (178).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013675346,0.97164536,0.014679251,1
+Perda_material (19).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013040053,0.9738758,0.013084164,1
+Perda_material (3).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012466779,0.97408605,0.013447221,1
+Perda_material (30).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015104047,0.9635854,0.021310534,1
+Perda_material (31).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009295619,0.9820472,0.008657119,1
+Perda_material (38).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011901181,0.9755103,0.012588538,1
+Perda_material (40).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012230037,0.9737083,0.014061665,1
+Perda_material (47).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015252535,0.96751696,0.017230485,1
+Perda_material (48).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.021486988,0.9533407,0.02517225,1
+Perda_material (51).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011060543,0.9786426,0.010296855,1
+Perda_material (57).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014985101,0.96638405,0.018630823,1
+Perda_material (6).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011441651,0.97602046,0.012537934,1
+Perda_material (67).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01952922,0.94597316,0.034497652,1
+Perda_material (7).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014161052,0.9682664,0.017572528,1
+Perda_material (73).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014335027,0.9715057,0.014159225,1
+Perda_material (83).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01650742,0.95782673,0.025665917,1
+Perda_material (9).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.035057504,0.95401824,0.010924217,1
+Perda_material (93).wav,Perda_material,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015660558,0.9658883,0.018451098,1
+Perda_material_P1 (101).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012672041,0.97315234,0.014175697,1
+Perda_material_P1 (110).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011985352,0.9727941,0.015220565,1
+Perda_material_P1 (124).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01075067,0.9712416,0.018007774,1
+Perda_material_P1 (129).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012929958,0.97211784,0.014952219,1
+Perda_material_P1 (130).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.017722534,0.95804745,0.024230042,1
+Perda_material_P1 (141).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015563011,0.96514225,0.019294713,1
+Perda_material_P1 (144).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011693092,0.9713622,0.016944742,1
+Perda_material_P1 (152).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.009855925,0.9813083,0.008835722,1
+Perda_material_P1 (172).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014431071,0.96534926,0.020219697,1
+Perda_material_P1 (175).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013220893,0.97425926,0.012519792,1
+Perda_material_P1 (27).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016067447,0.96289515,0.02103739,1
+Perda_material_P1 (32).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.024517864,0.95008487,0.025397306,1
+Perda_material_P1 (39).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.0126008475,0.9703808,0.017018422,1
+Perda_material_P1 (45).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014708848,0.9636157,0.021675436,1
+Perda_material_P1 (6).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014786467,0.9700754,0.015138136,1
+Perda_material_P1 (62).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013292844,0.96875036,0.017956818,1
+Perda_material_P1 (68).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014052589,0.96861714,0.017330231,1
+Perda_material_P1 (70).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013466827,0.96749485,0.019038284,1
+Perda_material_P1 (78).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01644163,0.9613001,0.022258343,1
+Perda_material_P1 (83).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013768045,0.970359,0.015872946,1
+Perda_material_P1 (84).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015632087,0.96826416,0.016103737,1
+Perda_material_P1 (86).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013667745,0.9662516,0.020080594,1
+Perda_material_P1 (88).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016145546,0.9621539,0.021700509,1
+Perda_material_P1 (89).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014582597,0.9659535,0.019463876,1
+Perda_material_P1 (96).wav,Perda_material_P1,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013063288,0.97363776,0.013298884,1
+Perda_material_P1P4 (1).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.0166115,0.9544386,0.028949823,1
+Perda_material_P1P4 (10).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014556076,0.97231674,0.013127177,1
+Perda_material_P1P4 (115).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014654035,0.9665375,0.01880845,1
+Perda_material_P1P4 (117).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014524384,0.96991986,0.015555766,1
+Perda_material_P1P4 (120).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014635845,0.9712227,0.0141414115,1
+Perda_material_P1P4 (129).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,2,Impulsive_Shocks_and_Structural,False,0.019150948,0.37028462,0.6105644,2
+Perda_material_P1P4 (15).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012025054,0.9767875,0.011187464,1
+Perda_material_P1P4 (152).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013268159,0.97437084,0.012361024,1
+Perda_material_P1P4 (154).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.010736537,0.98099005,0.008273344,1
+Perda_material_P1P4 (164).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011569803,0.97666126,0.011768998,1
+Perda_material_P1P4 (165).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.0137327565,0.96552384,0.02074344,1
+Perda_material_P1P4 (177).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01354949,0.96968395,0.01676651,1
+Perda_material_P1P4 (19).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016454425,0.9626997,0.020845916,1
+Perda_material_P1P4 (28).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015436321,0.9697347,0.014828969,1
+Perda_material_P1P4 (39).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012616391,0.96120787,0.026175754,1
+Perda_material_P1P4 (4).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016005035,0.9692439,0.01475114,1
+Perda_material_P1P4 (40).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014601531,0.97194517,0.013453336,1
+Perda_material_P1P4 (42).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011857282,0.9776742,0.010468486,1
+Perda_material_P1P4 (44).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012233882,0.97691363,0.010852458,1
+Perda_material_P1P4 (45).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016364168,0.9671591,0.016476681,1
+Perda_material_P1P4 (47).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015256998,0.96905285,0.015690146,1
+Perda_material_P1P4 (53).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.015949054,0.95373404,0.03031689,1
+Perda_material_P1P4 (59).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014521699,0.9564568,0.02902154,1
+Perda_material_P1P4 (61).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.01677818,0.9572591,0.025962705,1
+Perda_material_P1P4 (68).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.018329559,0.93711215,0.04455829,1
+Perda_material_P1P4 (72).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.016610015,0.9643285,0.019061465,1
+Perda_material_P1P4 (73).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.013534636,0.97275656,0.013708767,1
+Perda_material_P1P4 (75).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.012747635,0.97706944,0.010182956,1
+Perda_material_P1P4 (80).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014548569,0.9658612,0.019590247,1
+Perda_material_P1P4 (88).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.014549282,0.97354275,0.011907937,1
+Perda_material_P1P4 (9).wav,Perda_material_P1P4,1,Continuous_Friction_and_Wear,1,Continuous_Friction_and_Wear,True,0.011230318,0.97757393,0.011195719,1
+Sem_P1_108.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022651372,0.015831955,0.9615167,2
+Sem_P1_111.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.024825713,0.021632494,0.95354176,2
+Sem_P1_117.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.027796818,0.019012695,0.95319057,2
+Sem_P1_133.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.030992318,0.023013115,0.9459946,2
+Sem_P1_136.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.05881672,0.024773961,0.9164094,2
+Sem_P1_144.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023168173,0.021321863,0.9555099,2
+Sem_P1_149.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.03519434,0.021987466,0.9428182,2
+Sem_P1_154.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.0334812,0.02565546,0.94086325,2
+Sem_P1_159.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.1767331,0.038988855,0.78427804,2
+Sem_P1_163.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.05608288,0.023384096,0.92053306,2
+Sem_P1_164.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.0338443,0.027830156,0.9383256,2
+Sem_P1_177.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.033032585,0.017395549,0.94957185,2
+Sem_P1_2.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.033285785,0.021647625,0.9450665,2
+Sem_P1_22.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.017083608,0.011338062,0.9715783,2
+Sem_P1_24.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015506686,0.013584837,0.9709085,2
+Sem_P1_35.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016865343,0.028481672,0.95465297,2
+Sem_P1_53.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.017855193,0.021101201,0.96104354,2
+Sem_P1_6.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.029137388,0.017118886,0.9537437,2
+Sem_P1_62.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.015597742,0.017811626,0.96659064,2
+Sem_P1_63.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.020055167,0.017566497,0.9623783,2
+Sem_P1_70.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016274037,0.014415207,0.96931076,2
+Sem_P1_78.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.105894074,0.0340385,0.8600675,2
+Sem_P1_84.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.018254166,0.014889499,0.96685636,2
+Sem_P1_86.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023452118,0.019671313,0.9568765,2
+Sem_P1_89.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.016713917,0.020875646,0.96241045,2
+Sem_P1_90.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.035222154,0.025966382,0.9388115,2
+Sem_P1_92.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.03015525,0.018881718,0.95096296,2
+Sem_P1_97.wav,Sem_P1,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021648388,0.014216652,0.964135,2
+Sem_P1P4_102.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023932956,0.016434006,0.9596331,2
+Sem_P1P4_108.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023764089,0.020599717,0.9556362,2
+Sem_P1P4_111.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.040073007,0.018123437,0.9418035,2
+Sem_P1P4_114.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023145977,0.046424963,0.930429,2
+Sem_P1P4_115.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.041892976,0.024634138,0.93347293,2
+Sem_P1P4_116.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.024251457,0.025588233,0.9501603,2
+Sem_P1P4_125.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.03171137,0.025019705,0.94326895,2
+Sem_P1P4_128.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.021822223,0.03108289,0.9470949,2
+Sem_P1P4_136.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.029323094,0.01904973,0.9516271,2
+Sem_P1P4_139.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022982398,0.017235657,0.9597819,2
+Sem_P1P4_144.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023586243,0.020480819,0.95593286,2
+Sem_P1P4_151.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.02997281,0.027648337,0.9423789,2
+Sem_P1P4_177.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022296153,0.037538495,0.9401653,2
+Sem_P1P4_179.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.029079828,0.045723513,0.92519665,2
+Sem_P1P4_18.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.031087456,0.015545487,0.95336705,2
+Sem_P1P4_2.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.023607297,0.023493987,0.9528987,2
+Sem_P1P4_25.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.022298818,0.022764893,0.9549364,2
+Sem_P1P4_26.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.03327708,0.01977281,0.94695,2
+Sem_P1P4_33.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.026579907,0.021651002,0.9517692,2
+Sem_P1P4_37.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.029692004,0.026411384,0.9438966,2
+Sem_P1P4_38.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.03027879,0.02509264,0.9446286,2
+Sem_P1P4_79.wav,Sem_P1P4,2,Impulsive_Shocks_and_Structural,2,Impulsive_Shocks_and_Structural,True,0.019985808,0.021516696,0.9584976,2

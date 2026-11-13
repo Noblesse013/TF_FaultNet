@@ -1,0 +1,14 @@
+{
+  "seed": 44,
+  "variant": "A4",
+  "n_params": 1361379,
+  "best_epoch": 18,
+  "best_val_loss": 0.18856796381636437,
+  "best_val_acc": 0.9937888198757764,
+  "best_val_f1": 0.9954361211671152,
+  "learning_rate": 0.001,
+  "warmup_epochs": 3,
+  "max_grad_norm": 1.0,
+  "bn_recalibration": true,
+  "config": "configs\\experiment_3class.json"
+}

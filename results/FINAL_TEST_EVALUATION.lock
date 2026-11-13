@@ -1,0 +1,7 @@
+{
+  "evaluated_at": "2026-11-12 23:25:05",
+  "checkpoint_sha256": "2636ef18066147ba7c97adc02ff79bb1ee237d9c90ca3c15c27397f35829d6da",
+  "test_accuracy": 0.9875776397515528,
+  "macro_f1": 0.9908722423342305,
+  "git_commit": "1e01675db53eb9e91daebd144e0c30b8ef77daaf"
+}

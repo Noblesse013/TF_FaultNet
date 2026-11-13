@@ -1,0 +1,119 @@
+{
+  "dataset": "Base_de_Dados 3-Class Macro Taxonomy",
+  "evaluation_partition": "Held-out test split (file-level, stratified; session independence not verified)",
+  "sample_count": 322,
+  "classes": [
+    "Healthy_Baseline",
+    "Continuous_Friction_and_Wear",
+    "Impulsive_Shocks_and_Structural"
+  ],
+  "confusion_matrix_rows_true_cols_pred": [
+    [
+      27,
+      0,
+      0
+    ],
+    [
+      0,
+      160,
+      1
+    ],
+    [
+      0,
+      3,
+      131
+    ]
+  ],
+  "n_correct": 318,
+  "metrics": {
+    "test_accuracy": 0.9875776397515528,
+    "test_accuracy_wilson95": [
+      0.9684994668329232,
+      0.9951589487898824
+    ],
+    "macro_precision": 0.9913397781495942,
+    "macro_recall": 0.9904669200580947,
+    "macro_f1_score": 0.9908722423342305,
+    "macro_roc_auc": 0.99985024722973,
+    "micro_roc_auc": 0.999836040276224,
+    "macro_pr_auc": 0.9997827990308948,
+    "micro_pr_auc": 0.9996749190956831
+  },
+  "per_class": [
+    {
+      "class_index": 0,
+      "class_name": "Healthy_Baseline",
+      "precision": 1.0,
+      "recall": 1.0,
+      "recall_wilson95": [
+        0.8754409628553641,
+        1.0
+      ],
+      "f1_score": 1.0,
+      "roc_auc": 1.0,
+      "pr_auc": 1.0,
+      "support": 27
+    },
+    {
+      "class_index": 1,
+      "class_name": "Continuous_Friction_and_Wear",
+      "precision": 0.9815950920245399,
+      "recall": 0.9937888198757764,
+      "recall_wilson95": [
+        0.9656595837805935,
+        0.9989027597055169
+      ],
+      "f1_score": 0.9876543209876543,
+      "roc_auc": 0.9997299486902511,
+      "pr_auc": 0.9997325420982135,
+      "support": 161
+    },
+    {
+      "class_index": 2,
+      "class_name": "Impulsive_Shocks_and_Structural",
+      "precision": 0.9924242424242424,
+      "recall": 0.9776119402985075,
+      "recall_wilson95": [
+        0.9362447060064208,
+        0.9923573995988538
+      ],
+      "f1_score": 0.9849624060150376,
+      "roc_auc": 0.9997221340107971,
+      "pr_auc": 0.9996158549944711,
+      "support": 134
+    }
+  ],
+  "exported_models": {
+    "torchscript_jit": "results/checkpoints/best_tf_faultnet_3class_jit.pt",
+    "onnx_backbone": "results/checkpoints/best_tf_faultnet_3class_backbone.onnx",
+    "pytorch_weights": "results/checkpoints/best_tf_faultnet_3class.pt"
+  },
+  "provenance": {
+    "evaluated_at": "2026-11-12 23:25:05",
+    "checkpoint_sha256": "2636ef18066147ba7c97adc02ff79bb1ee237d9c90ca3c15c27397f35829d6da",
+    "config": "configs\\experiment_3class.json",
+    "training_config": {
+      "optimizer": "AdamW",
+      "learning_rate": 0.001,
+      "weight_decay": 0.0001,
+      "batch_size": 64,
+      "epochs": 25,
+      "scheduler": "LinearWarmup + CosineDecay (stepped per batch)",
+      "scheduler_params": {
+        "warmup_epochs": 3,
+        "eta_min": 1e-05
+      },
+      "max_grad_norm": 1.0,
+      "bn_recalibration": true,
+      "loss_function": "CrossEntropyLoss",
+      "label_smoothing": 0.05,
+      "augmentation": "train_only (via MemoryFaultDataset augment=True)"
+    },
+    "seed": 42,
+    "device": "NVIDIA GeForce RTX 5070",
+    "torch": "2.11.0+cu128",
+    "git_commit": "1e01675db53eb9e91daebd144e0c30b8ef77daaf",
+    "spectrogram_path_agreement": "322/322",
+    "waveform_ms_per_sample_batched": 5.582
+  }
+}

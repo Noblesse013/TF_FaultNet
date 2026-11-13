@@ -1,0 +1,61 @@
+{
+  "started": "2026-11-12 23:23:56",
+  "finished": "2026-11-12 23:25:05",
+  "environment": {
+    "git_commit": "1e01675db53eb9e91daebd144e0c30b8ef77daaf",
+    "git_uncommitted_changes": false,
+    "torch": "2.11.0+cu128",
+    "torch_cuda_build": "12.8",
+    "python": "3.14.6",
+    "gpu": "NVIDIA GeForce RTX 5070",
+    "gpu_capability": "sm_120"
+  },
+  "locked_config": {
+    "seed": 42,
+    "training.learning_rate": 0.001,
+    "training.epochs": 25,
+    "training.batch_size": 64,
+    "training.scheduler_params.warmup_epochs": 3,
+    "training.max_grad_norm": 1.0,
+    "training.bn_recalibration": true,
+    "training.label_smoothing": 0.05
+  },
+  "selected_epoch": 13,
+  "validation_at_selected_epoch": {
+    "val_loss": 0.18752377133191742,
+    "val_acc": 0.9937888198757764,
+    "val_f1": 0.9954420444362041
+  },
+  "test_metrics": {
+    "test_accuracy": 0.9875776397515528,
+    "test_accuracy_wilson95": [
+      0.9684994668329232,
+      0.9951589487898824
+    ],
+    "macro_precision": 0.9913397781495942,
+    "macro_recall": 0.9904669200580947,
+    "macro_f1_score": 0.9908722423342305,
+    "macro_roc_auc": 0.99985024722973,
+    "micro_roc_auc": 0.999836040276224,
+    "macro_pr_auc": 0.9997827990308948,
+    "micro_pr_auc": 0.9996749190956831
+  },
+  "test_confusion_matrix": [
+    [
+      27,
+      0,
+      0
+    ],
+    [
+      0,
+      160,
+      1
+    ],
+    [
+      0,
+      3,
+      131
+    ]
+  ],
+  "checkpoint_sha256": "2636ef18066147ba7c97adc02ff79bb1ee237d9c90ca3c15c27397f35829d6da"
+}
